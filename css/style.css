@@ -458,7 +458,10 @@ header .navbar ul li a:hover{
     html{
         font-size: 50%;
     }
- 
+
+    .gif img{
+        width: 350px;
+    }
  }
 
 @media (max-width:400px){
@@ -487,4 +490,7 @@ header .navbar ul li a:hover{
         margin:3rem 0;
     }
 
+    .gif img{
+        width: 100px;
+    }
  }
