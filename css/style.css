@@ -193,21 +193,17 @@ header .navbar ul li a:hover{
 .About .row .info{
     flex:1 1 48rem;
     padding:2rem 1rem;
-    padding-left: 6rem;
-}
-
-.About .row .info h3{
+    padding-left: 20rem;
+    padding-right: 20rem;
     font-size: 2rem;
-    color:var(--scheme);
-    padding:1rem 0;
-    font-weight: normal;
+    text-align: justify;
+    text-indent: 6rem;
 }
 
-.About .row .info h3 span{
+.About .row .info p{
     color:#eee;
     padding:0 .5rem;
 }
-
 .About .row .counter{
     flex:1 1 48rem;
     display: flex;
